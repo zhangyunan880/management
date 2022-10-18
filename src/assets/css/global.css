@@ -1,0 +1,50 @@
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1336px
+}
+.el-breadcrumb{
+  margin-bottom: 15px;
+  font-family: 12px;
+}
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important ;
+}
+.el-table{
+  margin-top: 15px;
+}
+
+.el-pagination{
+  margin-top: 15px;
+}
+.el-tag{
+  margin: 10px;
+}
+.bdtop{
+  border-top: 1px solid #eee;
+}
+.bdbottom{
+  border-bottom: 1px solid #eee;
+
+}
+p{
+  margin-top: 20px;
+}
+
+.el-cascader{
+    width: 100%;
+}
+.input-new-tag{
+  width: 120px;
+}
+.el-steps{
+  margin: 15px 0;
+}
+.el-step__title{
+  font-size: 13px;
+}
+.ql-editor{
+  min-height: 300px;
+
+}

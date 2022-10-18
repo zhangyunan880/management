@@ -1,0 +1,44 @@
+{
+  "id": "3679032",
+  "name": "icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1260",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1727589",
+      "name": "406报表",
+      "font_class": "baobiao",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "16728179",
+      "name": "权限管理",
+      "font_class": "quanxianguanli",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "17592043",
+      "name": "团购商品",
+      "font_class": "shangpinguanli-jianying",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "17795301",
+      "name": "订单完成",
+      "font_class": "complete-fill",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    }
+  ]
+}
